@@ -93,7 +93,7 @@ class Login extends React.Component {
                                                 name="username-tag"
                                                 className={classes.selectEmpty}
                                             >
-                                                <MenuItem value="Comsistelco">Comsistelco SAS</MenuItem>
+                                                <MenuItem value="Comsistelco">Comsistelco</MenuItem>
                                                 <MenuItem value="Codensa">Codensa</MenuItem>
                                             </Select>
                                         </FormControl>
